@@ -1,0 +1,36 @@
+{
+    "dependencies": {
+        "async": "^3.2.4",
+        "axios": "^1.4.0",
+        "bitcoinjs-lib": "^6.1.3",
+        "bitcore-lib-ltc": "^10.0.5",
+        "cheerio": "^1.0.0-rc.12",
+        "cheerio-httpcli": "^0.8.3",
+        "coininfo": "^5.2.1",
+        "coinkey": "^3.0.0",
+        "consola": "^2.15.3",
+        "cron": "^2.2.0",
+        "edit-json-file": "^1.7.0",
+        "https-proxy-agent": "^5.0.0",
+        "litecore-explorers": "^1.0.1",
+        "litecore-lib": "^0.13.22",
+        "mathjs": "^11.2.1",
+        "node-2fa": "^2.0.3",
+        "node-fetch": "^2.6.7",
+        "puppeteer": "^21.4.1",
+        "superagent": "^8.0.9",
+        "svg-parser": "^2.0.4",
+        "tor": "^0.0.1",
+        "tor-request": "^3.1.0",
+        "worker-farm": "^1.7.0"
+    },
+    "name": "rbx_mass_send",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
